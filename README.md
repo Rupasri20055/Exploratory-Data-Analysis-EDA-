@@ -6,24 +6,22 @@ About this Task: Hey! This task was all about exploring the Ames Housing dataset
 
 What I did in this task:
 
-1. Imported the Ames Housing dataset using Pandas.
+1 Imported the Ames Housing dataset using Pandas.
 
-2. Checked the number of rows, columns, and data types.
+2️ Checked the number of rows, columns, and data types.
 
-3. Got summary statistics like mean, median, std, etc.
+3️ Got summary statistics like mean, median, std, min, max etc.
 
-4. Created histograms and boxplots for numeric columns like SalePrice, GrLivArea, etc.
+4️ Created histograms and boxplots for numeric columns like SalePrice, Gr Liv Area, etc.
 
-5. Plotted a correlation heatmap to see which features affect SalePrice the most.
+5️ Plotted a correlation heatmap to see which features affect SalePrice the most.
 
-6. Used a pairplot to visualize how top features are related to each other.
+6️ Used a pairplot to visualize how top correlated features are related to each other.
 
-7. Noticed patterns — like bigger houses with higher GrLivArea usually cost more.
+7️ Noticed patterns — like bigger houses with higher Gr Liv Area usually cost more.
 
-8. Spotted outliers in SalePrice and GrLivArea.
+8️ Spotted outliers in SalePrice and Gr Liv Area.
 
-9. Made a few casual observations from the graphs.
+9️ Added extra visuals like scatterplots, distribution plots, countplots, and a violin plot to explore the data better.
 
-Dataset:
-- **AmesHousing.csv** — dataset I used for EDA.
-
+10️ Made a few casual observations from the graphs and trends.
